@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132361321738",
+    "project_id": "project-test-9b46e",
+    "storage_bucket": "project-test-9b46e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132361321738:android:51a13a534462f00a3d0ef3",
+        "android_client_info": {
+          "package_name": "app.ai.codingminds.intro_d1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132361321738-akb7dob8hig7cfnqr1el2r3so7k2ufif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxJI1M2qDcXj4VAWthHDerfECKLL-HYR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132361321738-akb7dob8hig7cfnqr1el2r3so7k2ufif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
